@@ -1,0 +1,30 @@
+2026-05-23 13:33:17,913 - Checking: https://www.google.com
+2026-05-23 13:33:17,921 - Status Code: 200
+2026-05-23 13:33:17,921 - Response Time: 0.98 seconds
+2026-05-23 13:33:17,921 - Status: UP
+2026-05-23 13:33:17,921 - Response time is good 
+2026-05-23 13:33:21,046 - Checking: https://www.github.com
+2026-05-23 13:33:21,046 - Status Code: 200
+2026-05-23 13:33:21,046 - Response Time: 3.12 seconds
+2026-05-23 13:33:21,046 - Status: UP
+2026-05-23 13:33:21,046 - WARNING SLOW RESPONSE TIME
+2026-05-23 13:33:21,997 - Checking: https://www.facebook.com
+2026-05-23 13:33:22,000 - Status Code: 200
+2026-05-23 13:33:22,001 - Response Time: 0.95 seconds
+2026-05-23 13:33:22,001 - Status: UP
+2026-05-23 13:33:22,003 - Response time is good 
+2026-05-23 13:39:37,939 - Checking: https://www.google.com
+2026-05-23 13:39:37,941 - Status Code: 200
+2026-05-23 13:39:37,941 - Response Time: 0.91 seconds
+2026-05-23 13:39:37,942 - Status: UP
+2026-05-23 13:39:37,942 - Response time is good 
+2026-05-23 13:39:40,333 - Checking: https://www.github.com
+2026-05-23 13:39:40,333 - Status Code: 200
+2026-05-23 13:39:40,333 - Response Time: 2.39 seconds
+2026-05-23 13:39:40,333 - Status: UP
+2026-05-23 13:39:40,333 - Response time is good 
+2026-05-23 13:39:42,424 - Checking: https://www.facebook.com
+2026-05-23 13:39:42,424 - Status Code: 200
+2026-05-23 13:39:42,426 - Response Time: 2.09 seconds
+2026-05-23 13:39:42,426 - Status: UP
+2026-05-23 13:39:42,426 - Response time is good 
